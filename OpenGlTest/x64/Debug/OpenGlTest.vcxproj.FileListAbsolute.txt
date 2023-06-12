@@ -1,1 +1,0 @@
-D:\Projects\VS\OpenGlTest\x64\Debug\OpenGlTest.exe
