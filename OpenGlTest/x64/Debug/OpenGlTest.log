@@ -1,0 +1,7 @@
+﻿  Application.cpp
+D:\Projects\VS\OpenGlTest\src\Application.cpp(15,91): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  OpenGlTest.vcxproj -> D:\Projects\VS\OpenGlTest\x64\Debug\OpenGlTest.exe
