@@ -1,0 +1,2 @@
+D:\Projects\VS\OpenGlTest\x64\Debug\OpenGlTest.exe
+D:\Projects\VS\Something\x64\Debug\OpenGlTest.exe
